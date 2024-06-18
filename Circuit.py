@@ -21,6 +21,7 @@ with open('rectangle.json', 'r') as file:
 
 # Extract rectangle data
 rectangles = data["rectangles"]
+
 # Colors
 white = (255, 255, 255)
 highlight_color = (255, 255, 0)  # Yellow highlight color
